@@ -1,5 +1,6 @@
 body {
     background-color: #525252;
+    align-items: center;
   }
 .column {
     display: flex;
